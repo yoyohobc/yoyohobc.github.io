@@ -15,7 +15,7 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "Jan 2023 - Present": "2023年1月 - 現在",
         "Working on projects for the American client, Peloton": "客戶-美商派樂騰(Peloton)",
         "Development of automation tests and CI process for android system apps and sensors firmware": "為安卓系統APP和感測器韌體開發自動化測試和CI流程",
-        "Migration and update of the Jenkins server in the automation ci lab": "遷移和更新自動化測試使用的Jenkins Server",
+        "Migration and update of the Jenkins server in the automation CI lab": "遷移和更新自動化測試使用的Jenkins Server",
         "Incorporate image-to-text conversion and custom backend API into automated tests": "整合圖像轉文字和自製後端API到自動化測試中",
         "Design a process that can easily change test rounds for stability test scripts": "使穩定性測試腳本不管在本地或jenkins執行都能方便動態修改執行次數",
         "Apr 2022 - Jan 2023": "2022年4月 - 2023年1月",
