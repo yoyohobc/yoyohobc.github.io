@@ -40,6 +40,8 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "Computer and Communication Engineering": "資訊傳播工程",
         "YouTube 100K Subscribers": "YouTube 10萬訂閱",
         "Silver Creator Award": "白銀創作者獎",
+        "Total Views: 28M+": "總觀看次數： 2800萬+",
+        "Top View Count: 1.9M": "最高觀看次數： 190萬",
         "SKILLS": "技能",
         "Familiar With": "熟悉",
         "Used": "使用過",
