@@ -13,7 +13,6 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "Software QA Automation Engineer Intern": "實習自動化軟體測試工程師",
         "轉成中文版": "Translate to English Version",
         "Jan 2023 - Present": "2023年1月 - 現在",
-        "Working on projects for the American client, Peloton": "客戶-美商派樂騰(Peloton)",
         "Development of automation tests and CI process for android system apps and sensors firmware": "為安卓系統APP和感測器韌體開發自動化測試和CI流程",
         "Migration and update of the Jenkins server in the automation CI lab": "遷移和更新自動化測試使用的Jenkins Server",
         "Incorporate image-to-text conversion and custom backend API into automated tests": "整合圖像轉文字和自製後端API到自動化測試中",
