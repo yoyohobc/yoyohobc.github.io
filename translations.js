@@ -16,7 +16,7 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "Development of automation tests and CI process for android system apps and sensors firmware": "為安卓系統APP和感測器韌體開發自動化測試和CI流程",
         "Migration and update of the Jenkins server in the automation CI lab": "遷移和更新自動化測試使用的Jenkins Server",
         "Incorporate image-to-text conversion and custom backend API into automated tests": "整合圖像轉文字和自製後端API到自動化測試中",
-        "Design a process that can easily change test rounds for stability test scripts": "使穩定性測試腳本不管在本地或jenkins執行都能方便動態修改執行次數",
+        "Design a process that can easily change the number of test rounds and generate scripts for stability tests": "使穩定性測試不管在本地或jenkins執行都能方便動態修改執行次數及生成腳本",
         "Apr 2022 - Jan 2023": "2022年4月 - 2023年1月",
         "Served on the Astoria project, testing Google servers for data centers.": "Google Astoria專案,測試給資料中心用的Server",
         "Develop server automation tests using the open-source openbmc-test-automation based on client's requirements": "根據客戶需求使用開源的openbmc-test-automation開發Server自動化測試",
