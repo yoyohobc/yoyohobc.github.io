@@ -6,13 +6,14 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "YOYO HO": "何宗祐",
         "WORK EXPERIENCE": "工作經歷",
         "SOFTWARE ENGINEER": "軟體工程師",
+        "Python Automation Engineer": "Python 自動化工程師",
         "Software Development Engineer in Test": "自動化測試開發工程師 SDET",
         "Software Engineer - Backend": "JAVA軟體後端開發工程師",
         "Software QA Engineer": "軟體測試工程師",
         "BMC QA Engineer": "BMC測試工程師",
         "Software QA Automation Engineer Intern": "實習自動化軟體測試工程師",
         "轉成中文版": "Translate to English Version",
-        "Jan 2023 - Present": "2023年1月 - 現在",
+        "Jan 2023 - April 2024": "2023年1月 - 2024年4月",
         "Development of automation tests and CI process for android system apps and sensors firmware": "為安卓系統APP和感測器韌體開發自動化測試和CI流程",
         "Migration and update of the Jenkins server in the automation CI lab": "遷移和更新自動化測試使用的Jenkins Server",
         "Incorporate image-to-text conversion and custom backend API into automated tests": "整合圖像轉文字和自製後端API到自動化測試中",
@@ -48,6 +49,14 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "Runs on Raspberry Pi": "運行於樹莓派",
         "Remote Control and Deployment via LineBot": "通過LineBot進行遠程控制和部署",
         "Automated Trading Record on Google Sheets": "會在Google Sheets上自動更新交易記錄",
+        "May 2024 - Present": "2024年5月 - 現在",
+        "Collaborated with the Microsoft US team, focusing on server validation for NVIDIA GB200 and H200 platforms": "與美國微軟團隊合作，專注於 NVIDIA GB200 與 H200 平台的伺服器驗證",
+        "Built and enhanced automation tests using Robot Framework and Python for hardware validation": "使用 Robot Framework 與 Python 建立並強化硬體驗證自動化測試",
+        "Designed and implemented core automation functions to support virtual machine test cases": "設計並開發核心自動化功能，以支援虛擬機測試案例",
+        "Helped build the Pythia automation tool with Azure DevOps integration and hardware serial interface support": "協助建立 Pythia 自動化工具，支援 Azure DevOps 整合及硬體序列介面",
+        "Developed N / N-1 ping-pong firmware upgrade/downgrade tests for both full-GPU bundle updates and individual component updates across BMC, BIOS, M.2, MUEFI, etc": "開發 N / N-1 韌體升降級循環測試，涵蓋完整 GPU 套件更新及單一元件更新（BMC、BIOS、M.2 及 MUEFI 等）",
+        "Implemented GPU stress and stability tests on Windows and Linux, including AC/DC power cycles and OS reboots": "在 Windows 與 Linux 上開發 GPU 壓力與穩定性測試，包括 AC/DC cycles與作業系統重啟",
+        "Automated system log collection and verification, enhancing efficiency in root-cause analysis": "自動化系統日誌收集與驗證，提高問題排查效率"
     };
 
     // // 检查当前网页的语言
