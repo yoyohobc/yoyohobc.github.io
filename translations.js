@@ -29,7 +29,7 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "Built custom test scripts and fake customer data to check API functions and business logic": "撰寫Web/API自動化腳本,模擬大量用戶情境,以驗證每次開發的專案邏輯、資料是否正確",
         "Sep 2020 - Mar 2021": "2020年9月 - 2021年3月",
         "Web and Android App manual test": "Web和Android APP手動測試",
-        "Developed Python scripts to improve testing efficiency for web and application validation": "開發Python腳本輔助Web和APP測試",
+        "Developed Python scripts to improve testing efficiency for web and Android app validation": "開發Python腳本輔助Web和Android APP測試",
         "Oct 2019 - Jul 2020": "2019年10月 - 2020年7月",
         "Participated in the Smart Workshop project": "智慧車廠專案",
         "Development of automation tests for REST APIs and web UI": "為專案使用的Restful API和Web UI開發自動化測試",
