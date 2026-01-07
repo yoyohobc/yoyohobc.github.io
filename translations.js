@@ -53,8 +53,8 @@ document.getElementById("translateButton").addEventListener("click", function() 
         "Collaborate with Microsoft Taiwan team to develop infrastructure domain automation test cases": "目前與微軟台灣團隊合作，開發 Infra 領域自動化測試",
         "Collaborated with Microsoft US team for 1.5 years, developing automation tests for NVIDIA GB200 and H200 platforms": "與美國微軟團隊合作 1.5 年，開發用於 NVIDIA GB200 與 H200 平台的自動化測試",
         "Built and enhanced automation tests using Robot Framework and Python for hardware validation": "使用 Robot Framework 與 Python 建立並強化硬體驗證自動化測試",
-        "Designed and implemented core automation functions to support virtual machine test cases": "設計並開發核心自動化功能，以支援虛擬機測試案例",
-        "Helped build the Pythia automation tool with Azure DevOps integration and hardware serial interface support": "協助建立 Pythia 自動化工具，支援 Azure DevOps 整合及硬體序列介面",
+        "Contributed to building the Pythia automation framework, adding ADO library for Azure DevOps test case management, shared parameters support, and serial interface functionality in the hardware library": "參與建置 Pythia 自動化框架，新增 ADO 函式庫以支援 Azure DevOps 的測試案例及共享參數管理，以及硬體函式庫中的序列介面功能",
+        "Developed core automation functions to support virtual machine test cases": "建置並開發虛擬機自動化測試的核心功能",
         "Developed N / N-1 ping-pong firmware upgrade/downgrade tests for both full-GPU bundle updates and individual component updates across BMC, BIOS, M.2, MUEFI, etc": "開發 N / N-1 韌體升降級循環測試，涵蓋完整 GPU 套件更新及單一元件更新（BMC、BIOS、M.2 及 MUEFI 等）",
         "Implemented GPU stress and stability tests on Windows and Linux, including AC/DC power cycles and OS reboots": "在 Windows 與 Linux 上開發 GPU 壓力與穩定性測試，包括 AC/DC cycles與作業系統重啟",
         "Automated system log collection and verification, enhancing efficiency in root-cause analysis": "自動化系統日誌收集與驗證，提高問題排查效率"
